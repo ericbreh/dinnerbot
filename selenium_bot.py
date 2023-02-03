@@ -77,7 +77,7 @@ def send_message_group():
     driver.find_element(By.XPATH, '//button[normalize-space()="Not Now"]').click()
     time.sleep(2)
 
-    for i in range (12): #12 or 13 depending on in website has reels idk why
+    for i in range (13): #12 or 13 depending on in website has reels idk why
         actions.send_keys(Keys.TAB)
         actions.perform()
 
@@ -86,7 +86,7 @@ def send_message_group():
     time.sleep(3)
 
     actions.send_keys(message)
-    actions.send_keys(Keys.ENTER)
+    #actions.send_keys(Keys.ENTER)
     actions.perform()
     time.sleep(3)
 
