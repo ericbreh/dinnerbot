@@ -2,7 +2,7 @@
 username = 'dinnerbot50'
 password = 'python1'
 message_to = 'Order of the cone'
-message = 'WAKE UP BOSEPH'
+message = 'WAKE UP'
 
 from playwright.sync_api import sync_playwright
 import time
