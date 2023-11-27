@@ -4,9 +4,9 @@ import time
 import random
 from datetime import datetime
 
-username = 'dinnerbot50'#'hungry.tamara'
-password = 'python1'#'yourmomonmonday'
-message_to = 'Order of the cone'#'honey nut cheerios'
+username = 'dinnerbot50'
+password = 'python1'
+message_to = 'Order of the cone'
 
 
 def send_dinner_message():

@@ -1,8 +1,4 @@
-#dinnerbot account
-#username = 'dinnerbot50'
-#password = 'python1'
 
-#tamara account
 username = 'hungry.tamara'
 password = 'yourmomonmonday'
 
